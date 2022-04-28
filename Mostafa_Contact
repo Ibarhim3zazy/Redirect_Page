@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Redirect Page</title>
+  </head>
+  <body onload="window.location.href = 'https://kindness.lovestoblog.com/Mostafa_contact.php';">
+    <center><h1><span style="color:#f03;">L</span>oading</h1></center>
+  </body>
+</html>
